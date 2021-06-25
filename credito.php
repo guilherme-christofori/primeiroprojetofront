@@ -10,7 +10,7 @@
 		<img src="img/topo_aula10.png" alt="topo">
 	<div>
 	<br>	
-	<h1>TECTREINAMENTOS - TRATAMENTO DE DADOS COM PHP<h1><hr><br>	
+	<h1>GUILHERME - TRATAMENTO DE DADOS COM PHP<h1><hr><br>	
 
 <div class= "pesquisa">
 	<h6> Aluno Guilherme Gomes
