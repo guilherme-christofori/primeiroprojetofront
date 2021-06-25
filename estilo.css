@@ -1,0 +1,35 @@
+.topo{
+	text-align: center;
+	background-color:  #191970;
+	height: 200px;
+}
+h1{
+	text-align: center;
+	font-family: arial;
+		text-shadow: 1px 1px 1px #191970;
+}
+.pesquisa{
+	text-align: right;
+	font-size: 10px;
+}
+.conteudo{
+	text-align: center;
+	font-family: arial;
+	font-size: 16px;
+	padding: 20px;
+}
+.rodape{
+	text-align: center;
+	font-family: arial;
+	text-shadow: 1px 1px 1px #000;
+	color: #fff;
+	background-color: #191970;
+}
+h3{
+	text-align: center;
+	font-family: arial;
+	font-size: 18px;
+}
+h6{
+	font-size: 10px;
+}
