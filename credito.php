@@ -37,7 +37,7 @@
 <div>
 
 <div class="rodape">
-	<h2>TECTREINAMENTOS - PROGRAMAÇÃO WEB COM PHP<h2><br>
+	<h2>GUILHERME- PROGRAMAÇÃO WEB COM PHP<h2><br>
 	<h2>PÁGINA DE TRATAMENTO DE DADOS<h2>
 </div>
 <footer>
